@@ -1,5 +1,5 @@
 class Ship {
-    static SHIP_SPEED = 4.5
+    static SHIP_SPEED = 2.5
     static MAX_X = null
     static MAX_Y = null
     static GRID_SIZE = null
